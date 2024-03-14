@@ -1,5 +1,5 @@
 package registration;
-
+\\rety
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
